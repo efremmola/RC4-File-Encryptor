@@ -1,8 +1,6 @@
-# RC4-File-Encryptor
-A simple RC4-based file encryptor and decryptor implemented in C++.
 # RC4 File Encryptor and Decryptor
-
-  Objective
+A simple RC4-based file encryptor and decryptor implemented in C++.
+ # Objective
 
 This project demonstrates file encryption and decryption using the RC4 stream cipher in C++.
 
